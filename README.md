@@ -16,17 +16,9 @@ RFM analysis evaluates customers based on:
 
 Customers are segmented into groups such as **Champions, Loyal, New, and Lost** to better understand their value and engagement level.
 
-## Key Insights
-
-* **Loyal and Champion customers generate the majority of revenue.**
-* **Champions have the highest average spending per customer.**
-* **Lost customers represent a large portion of the customer base**, indicating potential churn.
-* **New customers contribute less revenue**, suggesting opportunities for growth through customer development strategies.
-
 ## Tools
-
-* Power BI – Data visualization
-* RFM Model – Customer segmentation methodology
+* Azure SQL Server – Data querying and RFM metric calculation
+* Power BI – Data visualization and dashboard creation
 
 ## Conclusion
 
